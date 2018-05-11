@@ -1392,3 +1392,25 @@ body {
     text-align: center;
   }
 }
+.cid-qRLwur9jKP {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+  background: linear-gradient(0deg, #149dcc, #ffffff);
+}
+.cid-qRLwur9jKP .image-block {
+  margin: auto;
+}
+.cid-qRLwur9jKP figcaption {
+  position: relative;
+}
+.cid-qRLwur9jKP figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qRLwur9jKP .image-block {
+    width: 100% !important;
+  }
+}
